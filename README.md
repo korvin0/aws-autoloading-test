@@ -1,0 +1,1 @@
+Test repository for AWS autoscale and autodeploy discovering
